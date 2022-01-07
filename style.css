@@ -16,3 +16,7 @@
 body {
 	background-color: #eee;
 }
+
+.site-title {
+	text-transform: none;
+}
