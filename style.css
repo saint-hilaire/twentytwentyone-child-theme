@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Twenty Twentyone Child
+ Theme URI:    https://github.com/sanctus91/twenty-twentyone-child/
+ Description:  Twenty Twentyone Child Theme
+ Author:       Brian St. Hilaire
+ Author URI:   http://sanctus-tech.com
+ Template:     twentytwentyone
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentytwentyonechild
+*/
+
+
+body {
+	background-color: #eee;
+}
