@@ -21,6 +21,13 @@ body {
 	text-transform: none !important;
 }
 
+.site-info, .site-name {
+	display: none;
+}
 .powered-by {
 	display: none;
+}
+
+.entry-title {
+	font-size: 200% !important;
 }
