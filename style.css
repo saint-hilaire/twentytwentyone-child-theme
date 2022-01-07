@@ -17,8 +17,8 @@ body {
 	background-color: #eee;
 }
 
-.site-title {
-	text-transform: none;
+.site-title, .site-info, .site-name {
+	text-transform: none !important;
 }
 
 .powered-by {
